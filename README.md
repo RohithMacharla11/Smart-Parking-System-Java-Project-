@@ -65,11 +65,31 @@ java MainApp
 ```
 ## 🖥️ Sample Output
 ==== SMART PARKING SYSTEM ====
-1. ![Park Vehicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project/blob/main/ParkVechicle.png)
-2. ![2nd Vechicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project/blob/main/ParkVechicle2.png)
-3. ![Remove Vehicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project/blob/main/removeVechicle.png)
-4. ![Show Status](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project/blob/main/showStatus.png)
-5. ![View History](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project/blob/main/viewHistory.png)
+
+---
+
+### 🚗 Park Vehicle
+![Park Vehicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project-/blob/main/Screenshots/ParkVechicle.png)
+
+---
+
+### 🚗 Park Second Vehicle
+![Second Vehicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project-/blob/main/Screenshots/parkVechicle2.png)
+
+---
+
+### ❌ Remove Vehicle
+![Remove Vehicle](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project-/blob/main/Screenshots/removeVechicle.png)
+
+---
+
+### 📊 Show Status
+![Show Status](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project-/blob/main/Screenshots/showStatus.png)
+
+---
+
+### 📜 View History
+![View History](https://github.com/RohithMacharla11/Smart-Parking-System-Java-Project-/blob/main/Screenshots/viewHistory.png)
 
 ---
 
